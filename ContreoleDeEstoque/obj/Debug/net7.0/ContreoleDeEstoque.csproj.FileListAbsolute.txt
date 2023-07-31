@@ -1,0 +1,15 @@
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\bin\Debug\net7.0\ContreoleDeEstoque.exe
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\bin\Debug\net7.0\ContreoleDeEstoque.deps.json
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\bin\Debug\net7.0\ContreoleDeEstoque.runtimeconfig.json
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\bin\Debug\net7.0\ContreoleDeEstoque.dll
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\bin\Debug\net7.0\ContreoleDeEstoque.pdb
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\obj\Debug\net7.0\ContreoleDeEstoque.csproj.AssemblyReference.cache
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\obj\Debug\net7.0\ContreoleDeEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\obj\Debug\net7.0\ContreoleDeEstoque.AssemblyInfoInputs.cache
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\obj\Debug\net7.0\ContreoleDeEstoque.AssemblyInfo.cs
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\obj\Debug\net7.0\ContreoleDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\obj\Debug\net7.0\ContreoleDeEstoque.dll
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\obj\Debug\net7.0\refint\ContreoleDeEstoque.dll
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\obj\Debug\net7.0\ContreoleDeEstoque.pdb
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\obj\Debug\net7.0\ContreoleDeEstoque.genruntimeconfig.cache
+C:\Users\RodrigoPereiradeCarv\ContreoleDeEstoque\ContreoleDeEstoque\obj\Debug\net7.0\ref\ContreoleDeEstoque.dll
