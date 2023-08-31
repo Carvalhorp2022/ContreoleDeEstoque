@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContreoleDeEstoque", "ContreoleDeEstoque\ContreoleDeEstoque.csproj", "{97E64002-D0B6-4494-98F2-B0E489D96373}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeEstoque", "ControleDeEstoque\ControleDeEstoque.csproj", "{97E64002-D0B6-4494-98F2-B0E489D96373}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
